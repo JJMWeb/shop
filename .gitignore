@@ -1,0 +1,4 @@
+/js/
+*docx
+/js1/a.txt
+!/js/b.txt
